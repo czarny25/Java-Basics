@@ -1,0 +1,33 @@
+package Assertions;
+
+public class SimpleAssertionUse {
+	
+	
+	int n = 0;
+	int sum = 0;
+	
+		public SimpleAssertionUse(int n, int sum) {
+			this.n = n;
+			this.sum = sum;
+		}
+	
+	
+	public static void main(String args[]){
+		
+		SimpleAssertionUse sa = new SimpleAssertionUse(23, 34);
+		sa.assertME();
+		
+	}
+	
+	public void assertME(){
+		
+		assert (sum == 0);
+		while(n<100){
+			n++;
+			System.out.println("I am Ok ");
+		}
+		System.out.println("I failed ");
+		
+	}
+
+}

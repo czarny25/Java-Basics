@@ -1,0 +1,22 @@
+{
+  "E:\\Kody i programy z kursu\\JavaEclipseCode\\Essential java API\\BasicIO\\src": {
+    "location": "E:\\Kody i programy z kursu\\JavaEclipseCode\\Essential java API\\BasicIO\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\Kody i programy z kursu\\JavaEclipseCode\\Essential java API\\BasicIO\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "E:\\Kody i programy z kursu\\JavaEclipseCode\\Essential java API\\Fundamentals\\src": {
+    "location": "E:\\Kody i programy z kursu\\JavaEclipseCode\\Essential java API\\Fundamentals\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\Kody i programy z kursu\\JavaEclipseCode\\Essential java API\\Fundamentals\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Desktop\\Desktop\\java exam - materialy\\JavaEclipseCodeForTheExam\\Essential java API\\4 Concurrency(Threads)\\src": {
+    "location": "C:\\Users\\Desktop\\Desktop\\java exam - materialy\\JavaEclipseCodeForTheExam\\Essential java API\\4 Concurrency(Threads)\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Desktop\\Desktop\\java exam - materialy\\JavaEclipseCodeForTheExam\\Essential java API\\4 Concurrency(Threads)\\src\u0027. Skipped."
+  }
+}

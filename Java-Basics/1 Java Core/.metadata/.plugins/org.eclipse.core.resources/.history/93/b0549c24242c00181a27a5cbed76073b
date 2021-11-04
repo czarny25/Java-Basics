@@ -1,0 +1,29 @@
+package _1;
+
+public class _2 {
+
+	public String[] checkPermutations(String wordToCheck){
+		
+		String[]permutations = null;
+		
+		for(int i = 0; i <= wordToCheck.length(); i++){
+			
+			
+			for(int j = 0; j < wordToCheck.length(); j++){
+				
+				System.out.println(wordToCheck.charAt(j));
+			}
+		}
+		
+		
+		return permutations;
+	}
+	
+	public static void main(String[] args) {
+
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,68 @@
+package _1;
+
+public class BracketValidator {
+
+	
+	static String input = 			
+	"for ( var i = (previousTagId); i < length; i++) { "
+	+ "	var testTag = document.getElementById('tab' + tabId); "
+	+ "	if (testTag != undefined) {  var temp = testTag; 	"
+	+ "exercises.push(temp); 	testTag.parentNode.removeChild(testTag); "
+	+ "  }	tabId++; }" 
+	;
+	
+	
+	
+	public static void checkString(String input){
+		
+		boolean b1 = false; 
+		boolean b2 = false; 
+		boolean b3 = false; 
+		
+		System.out.println("input has " + input.length() + " chars");
+		System.out.println();
+		
+		for(int i = 0; i < input.length(); i++){
+			//System.out.print(input.charAt(i));
+			char c = input.charAt(i);
+			
+			if((c == '(') && (!b1)  ) {
+				b1 = true;
+				System.out.println("b1 is " + b1 + " at " + i);
+			if( (b1)  && (((c == '(')) || ((c == '('))) ){
+				System.out.println("Error at " + i);
+			}else{}
+//			
+//			}else if((c == '(') && (b1)){
+//				System.out.println("Error at " + i);
+//			}			
+//			else if (c == ')'){
+//				b1 = false;
+//				System.out.println("b1 is " + b1 + " at " + i);
+//			};
+//			
+			}
+			
+		}
+		
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+//		if(){
+//			
+//		}
+		
+		
+		//System.out.println(input);
+		
+	}
+	
+	
+	public static void main(String[] args) {
+
+		checkString(input);
+
+	}
+
+}

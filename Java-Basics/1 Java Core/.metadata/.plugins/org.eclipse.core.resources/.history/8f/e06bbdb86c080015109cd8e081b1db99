@@ -1,0 +1,19 @@
+package _3_enumeration;
+
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+
+/**
+ * @author Marcin
+ */
+public class CustomerCall {
+        public static void main(String args[]){
+
+            Scanner cons = new Scanner(System.in);
+            String type = cons.next();
+            JOptionPane.showInputDialog(null, "What type of car you are looking for?");
+            
+            
+
+        }
+}

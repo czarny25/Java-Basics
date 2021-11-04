@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;jarTest&apos; to &apos;1.6 JAR Files/src&apos;&#x0D;&#x0A;- Original project: &apos;1.5 Package, jar and deployment&apos;&#x0D;&#x0A;- Destination element: &apos;1.6 JAR Files/src&apos;&#x0D;&#x0A;- Original element: &apos;1.5 Package, jar and deployment/src/jarTest&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=1.6 JAR Files/src" element1="/src&lt;jarTest" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1491382369446" version="1.0"/>
+</session>

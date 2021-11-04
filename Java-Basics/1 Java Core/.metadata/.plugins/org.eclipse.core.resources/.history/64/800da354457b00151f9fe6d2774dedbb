@@ -1,0 +1,10 @@
+package CreatingAndUsingClassObjects;
+
+public class UsingInstanceOfMethod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

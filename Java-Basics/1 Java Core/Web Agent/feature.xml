@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="Web Agent"
+      label="%Feature-Label"
+      version="1.0.0.qualifier"
+      provider-name="Obeo Network">
+
+   <description>
+      %Feature-Description
+   </description>
+
+   <copyright url="%Copyright-URL">
+      %Copyright
+   </copyright>
+
+   <license>
+      %Licence
+   </license>
+
+
+</feature>
+

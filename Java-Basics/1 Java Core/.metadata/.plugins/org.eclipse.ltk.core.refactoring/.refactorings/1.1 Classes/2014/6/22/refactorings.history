@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;_7_InnerClasses&apos; to &apos;1.1 Inner Classess/src&apos;&#x0D;&#x0A;- Original project: &apos;1.1 Classes&apos;&#x0D;&#x0A;- Destination element: &apos;1.1 Inner Classess/src&apos;&#x0D;&#x0A;- Original element: &apos;1.1 Classes/src/_7_InnerClasses&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=1.1 Inner Classess/src" element1="/src&lt;_7_InnerClasses" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1401621787485" version="1.0"/>
+</session>

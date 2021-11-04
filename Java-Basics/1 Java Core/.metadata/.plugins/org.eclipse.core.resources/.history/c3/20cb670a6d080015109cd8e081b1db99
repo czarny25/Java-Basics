@@ -1,0 +1,51 @@
+package _3_enumeration;
+
+import java.util.Scanner;
+
+import javax.swing.JOptionPane;
+
+/**
+ * @author Marcin
+ */
+public class CustomerCall {
+        public static void main(String args[]){
+
+            Scanner cons = new Scanner(System.in);
+            String type = cons.next();
+            JOptionPane.showInputDialog(null, "What type of car you are looking for?");
+            
+        }
+}
+
+enum ENUMtypes {   
+    SALLON,ESTATE,CONVETIBLE;        
+}
+enum EnumColors {    
+    RED,BLUE,BLACK,YELLOW,WHITE;    
+}
+enum EnumMark {    
+    VW,BMW,AUDI,OPEL;    
+}
+
+class Customer {
+
+	ENUMtypes type = ENUMtypes.SALLON;
+	
+		
+            public String typeChoice(String customer){
+                
+               String choice = null ;
+                
+            switch(type){
+                case SALLON:
+                    System.out.println("Your type is " + type.toString().toLowerCase());
+                case ESTATE:
+                    System.out.println("Your type is " + type.toString().toLowerCase());
+                case CONVETIBLE:
+                    System.out.println("Your type is " + type.toString().toLowerCase());
+                    
+            }
+            return choice;
+            }
+		
+}

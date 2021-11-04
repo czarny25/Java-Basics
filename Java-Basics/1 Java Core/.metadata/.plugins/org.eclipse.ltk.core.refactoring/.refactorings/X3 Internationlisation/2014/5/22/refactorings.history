@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;numbers&apos; to &apos;1.2 Variables/src&apos;&#x0D;&#x0A;- Original project: &apos;3.4 NumbersClasses&apos;&#x0D;&#x0A;- Destination element: &apos;1.2 Variables/src&apos;&#x0D;&#x0A;- Original element: &apos;3.4 NumbersClasses/src/numbers&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=1.2 Variables/src" element1="/src&lt;numbers" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1401289323480" version="1.0"/>
+</session>

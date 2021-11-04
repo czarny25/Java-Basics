@@ -1,0 +1,44 @@
+package _1;
+
+import java.util.Arrays;
+
+public class _2 {
+
+	public static String[] checkPermutations(String wordToCheck){
+		
+		char[] wordToCheckConverted = wordToCheck.toCharArray();
+		
+		String[]permutations = null;
+		
+		//for(int i = 1; i <=	wordToCheck.length(); i++){
+			
+			System.out.println("---");
+			
+			for(int j = 0; j < wordToCheckConverted.length-1; j++){
+				
+				char c1 = wordToCheckConverted[j];				
+				char temp = wordToCheckConverted[j + 1];
+				wordToCheckConverted[j + 1] = c1;
+				wordToCheckConverted[j] = temp;
+				
+				
+				
+				System.out.print(Arrays.toString(wordToCheckConverted));
+				System.out.println();
+			}
+			System.out.println();
+			
+		//}
+		
+		
+		return permutations;
+	}
+	
+	public static void main(String[] args) {
+
+		
+		checkPermutations("tom");
+		
+	}
+
+}

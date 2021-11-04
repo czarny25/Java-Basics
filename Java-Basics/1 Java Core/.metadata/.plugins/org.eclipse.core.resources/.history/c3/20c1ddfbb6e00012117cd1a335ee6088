@@ -1,0 +1,63 @@
+package Assertions;
+
+public class SimpleAssertionUse {
+	
+	
+	
+//		public SimpleAssertionUse(int n, int sum) {
+//				
+//			this.n = n;
+//			this.sum = sum;
+//			System.out.println(n + " " + sum);
+//		}
+	
+	
+	public static boolean Aa(){
+		
+		int age = 25;
+		int sum = 3;
+		
+//		assert (age == 0):" dupa ";
+		
+		if(age > 60)
+			return true;
+		else
+			return true;
+//		assert false;
+		
+		
+		
+	}	
+	
+	
+	public static void main(String args[]){
+		
+		
+		
+		
+		
+		System.out.println(Aa());
+		
+		
+		
+		
+		
+		
+//		SimpleAssertionUse sa = new SimpleAssertionUse(23, 34);
+//		
+//		sa.assertME();
+		
+//	}
+	
+//	public void assertME(){
+//		
+//		
+//		while(n < 100){
+//			n++;
+//			System.out.println(n);
+//		}
+//		System.out.println("I failed ");
+//		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ExclouseveOR.java&apos; to &apos;4.Operators/src/_5_ConditionalOperators&apos;&#x0D;&#x0A;- Original project: &apos;1.4 Operators&apos;&#x0D;&#x0A;- Destination element: &apos;4.Operators/src/_5_ConditionalOperators&apos;&#x0D;&#x0A;- Original element: &apos;ConditionalOperators.ExclouseveOR.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=4.Operators/src&lt;_5_ConditionalOperators" element1="/src&lt;ConditionalOperators{ExclouseveOR.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1401621115449" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+Write a class named GroceryList that represents a list of items to buy from the market, 
+and another class named GroceryItemOrder that represents a request to purchase a particular item in a given quantity (example: four boxes
+of cookies). 
+
+The GroceryList class should use an array field to store the grocery items 
+and to keep track of its size (number of items in the list so far). 
+Assume that a grocery list will have no more than 10 items. 
+
+A GroceryList object should have the following methods:

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ThisInMethods.java&apos; to &apos;0.0 JavaKeywords/src/VariousKeywordUse&apos;&#x0D;&#x0A;- Original project: &apos;1.3 Methods&apos;&#x0D;&#x0A;- Destination element: &apos;0.0 JavaKeywords/src/VariousKeywordUse&apos;&#x0D;&#x0A;- Original element: &apos;UsingThisKeywoard.ThisInMethods.java&apos;" description="Copy compilation unit" destination="=0.0 JavaKeywords/src&lt;VariousKeywordUse" element1="/src&lt;UsingThisKeywoard{ThisInMethods.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1418720427941" units="1" version="1.0"/>
+</session>
